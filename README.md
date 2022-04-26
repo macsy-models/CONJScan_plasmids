@@ -1,4 +1,4 @@
-# CONJ models - Models for detection of conjugative and mobilisable plasmids
+# CONJScan_plasmids models - Models for detection of conjugative and mobilisable plasmids
 
 This set of MacSyFinder's models are dedicated to the detection of conjugative and mobilisable plasmids.
 The conjugative T4SS that can be detected are:
