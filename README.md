@@ -48,9 +48,3 @@ It has to be noted that to ensure the highest annotation specificity, it is reco
   Integrative and conjugative elements and their hosts: composition, distribution and organization.
   Nucleic Acids Research, Volume 45, Issue 15, 6 September 2017, Pages 8943–8956.
   [doi: 10.1093/nar/gkx607](https://doi.org/10.1093/nar/gkx607)
-
-- Abby Sophie S., Cury Jean, Guglielmini Julien, Néron Bertrand, Touchon Marie, Rocha Eduardo P. C.
-  (2016).
-  Identification of protein secretion systems in bacterial genomes.
-  Scientific Reports, 6, pp. 23080.
-  [doi:10.1038/srep23080](http://dx.doi.org/10.1038/srep23080)
