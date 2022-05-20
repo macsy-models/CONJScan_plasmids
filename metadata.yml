@@ -3,11 +3,11 @@ maintainer:
   name: Charles Coluzzi Eduardo Rocha
   email: ccoluzzi@pasteur.fr erocha@pasteur.fr
 short_desc: CONJScan_plasmids models - Models for detection of conjugative and mobilisable plasmids.
-vers: 1.0rc1
+vers: 2.0.0
 cite:
   - |
     Charles Coluzzi, M. Pilar Garcillán-Barcia, Fernando de la Cruz, Eduardo P.C. Rocha (2022).
-    Evolution of plasmid mobility: origin and fate of non-conjugative plasmids
+    Evolution of plasmid mobility: origin and fate of conjugative and non-conjugative plasmids
   - |
     Jean Cury, Marie Touchon, Eduardo P. C. Rocha
     Integrative and conjugative elements and their hosts: composition, distribution and organization.
